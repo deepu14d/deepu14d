@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 Hey there, I am a student from India and currently in my second year of Bachelor of Teachnology in Computer Science domain. I am technology enthusiast and want to learn as many things as possible. I am trying my best to get into the league and become a good developer and hacker.
@@ -11,13 +11,16 @@ I am currently working on my existing skills and focussing on some new skills al
 - 😉 Pronouns : He/His
 - 😜 Fun fact: I can't say.
 
-Sometimes I am damn serious
+### Sometimes I am damn serious
 
-![Alt Text](https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif)
+  ![Alt Text](https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif)
 
-Sometimes I am frustrated
+### Sometimes I am frustrated
 
 ![Alt Text](https://media.giphy.com/media/Rkis28kMJd1aE/giphy.gif)
+
+### Octocat
+<img src="https://octodex.github.com/collabocats/" title="I love contributing" width="140">
 
 **Github Stats:**
 <p align="center">
@@ -27,4 +30,9 @@ Sometimes I am frustrated
   <p align = "center"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepu14d&theme=dark" />
 
 </p>
+
+### Connect With Me
+<a href="https://www.instagram.com/deepu14d/" target="_blank">
+  <img align="left" alt="Ajay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
