@@ -20,7 +20,7 @@ I am currently working on my existing skills and focussing on some new skills al
 ![Alt Text](https://media.giphy.com/media/Rkis28kMJd1aE/giphy.gif)
 
 **Octocat:**
-<img src="https://octodex.github.com/images/collabocats.jpg" title="I love contributing" width="50%">
+<img src="https://octodex.github.com/images/collabocats.jpg" title="I love contributing" width="140">
 
 **Github Stats:**
 <p align="center">
