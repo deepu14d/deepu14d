@@ -22,9 +22,9 @@ Sometimes I am frustrated
 **Github Stats:**
 <p align="center">
   
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=deepu14d&show_icons=true&theme=dracula&count_private=true" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=deepu14d&show_icons=true&theme=dark&count_private=true" />
   </p>
-  <p align = "center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepu14d&theme=dark" />
+  <p align = "center"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepu14d&theme=dark" />
 
 </p>
 
