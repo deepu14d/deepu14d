@@ -9,18 +9,21 @@ I am currently working on my existing skills and focussing on some new skills al
 - 👯 I’m looking to collaborate on .. some python based projects.
 - 💬 Ask me about .. anything and I hope I can be of any help.
 - 😉 Pronouns : He/His
-- 😜 Fun fact: I can't say.
+- 😜 Fun fact: I won't say.
 
-### Sometimes I am damn serious
+## Sometimes I am damn serious
 
   ![Alt Text](https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif)
 
-### Sometimes I am frustrated
+## Sometimes I am frustrated
 
 ![Alt Text](https://media.giphy.com/media/Rkis28kMJd1aE/giphy.gif)
 
+
 **Octocat:**
 <img src="https://octodex.github.com/images/collabocats.jpg" title="I love contributing" width="140">
+=======
+<img src="https://octodex.github.com/images/hula_loop_octodex03.gif" title="I love contributing" width="140">
 
 **Github Stats:**
 <p align="center">
