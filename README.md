@@ -21,9 +21,9 @@ I am currently working on my existing skills and focussing on some new skills al
 
 
 **Octocat:**
-<img src="https://octodex.github.com/images/collabocats.jpg" title="I love contributing" width="140">
+<img src="https://octodex.github.com/images/collabocats.jpg" title="I love contributing" width="160">
 =======
-<img src="https://octodex.github.com/images/hula_loop_octodex03.gif" title="I love contributing" width="140">
+<img src="https://octodex.github.com/images/hula_loop_octodex03.gif" title="I love contributing" width="160">
 
 **Github Stats:**
 <p align="center">
