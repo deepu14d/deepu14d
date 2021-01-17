@@ -35,7 +35,7 @@ I am currently working on my existing skills and focussing on some new skills al
 </p>
 
 ### Connect With Me
-<a href="https://www.instagram.com/deed/" target="_blank">
+<a href="https://www.instagram.com/deepu14d/" target="_blank">
   <img align="left" alt="Ajay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
