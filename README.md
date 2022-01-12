@@ -11,7 +11,7 @@ I am currently working on improving my skills and focussing on some new skills a
 - 😉 Pronouns : He/His
 - 😜 Fun fact: ...
 
-## Sometimes I am damn serious
+## Sometimes I am serious
 
   ![Alt Text](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
 
