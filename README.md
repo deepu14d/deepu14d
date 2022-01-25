@@ -26,10 +26,10 @@ I am currently working on improving my skills and focussing on some new skills a
 <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" title="I love contributing" width="160"> -->
 
 **Github Stats:**
-<p align="center">
+<!-- <p align="center">
   
   <img width="80%" src="https://github-readme-stats.vercel.app/api?username=deepu14d&show_icons=true&theme=dark&count_private=true" />
-  </p>
+  </p> -->
   
  <p width="100%" align="center">
           <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepu14d&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
