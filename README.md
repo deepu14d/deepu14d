@@ -2,7 +2,7 @@
 
 
 Hey there, I am a student from India and currently pursuing Bachelor of Teachnology in Computer Science domain. I am technology enthusiast and trying to explore as many things as possible. I am trying my best to get into the league and become a good developer.
-I am currently working on improving my skills and focussing on some new skills also. I’m excited for the opportunity to be part of a team that's working on some innovative project, I will contribute positively to the project.
+I am currently working on improving my skills and focussing on learning some new skills also. I’m excited for the opportunity to be part of a team that's working on some innovative project, I will contribute positively to the project.
 
 - 🔭 I’m currently working on .. improving myself.
 - 🌱 I’m currently learning .. Web Development.
@@ -11,13 +11,13 @@ I am currently working on improving my skills and focussing on some new skills a
 - 😉 Pronouns : He/His
 - 😜 Fun fact: ...
 
-## Sometimes I am serious
+## Sometimes I feel to work day long
 
-  ![Alt Text](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
+  ![Alt Text](https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif)
 
-## Sometimes I am frustrated
+## Sometimes I feel lazy
 
-  ![Alt Text](https://media.giphy.com/media/Rkis28kMJd1aE/giphy.gif)
+  ![Alt Text](https://media.giphy.com/media/fdlcvptCs4qsM/giphy.gif)
 
 
 <!-- **Octocat:**
@@ -32,7 +32,7 @@ I am currently working on improving my skills and focussing on some new skills a
   </p> -->
   
  <p width="100%" align="center">
-          <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepu14d&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<!--           <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepu14d&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> -->
           <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepu14d&theme=tokyonight" />
 </p>
 
