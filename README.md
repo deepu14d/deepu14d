@@ -1,48 +1,141 @@
-## Hi there 👋
+# Hi there 👋
 
+### Solution Engineer | Backend & APIs | Integrations | GenAI
 
-Hey there, I am a student from India and currently pursuing Bachelor of Teachnology in Computer Science domain. I am technology enthusiast and trying to explore as many things as possible. I am trying my best to get into the league and become a good developer.
-I am currently working on improving my skills and focussing on learning some new skills also. I’m excited for the opportunity to be part of a team that's working on some innovative project, I will contribute positively to the project.
+I enjoy building practical software solutions across **backend development, APIs,
+integrations, automation, and AI-powered applications**.
 
-- 🔭 I’m currently working on .. improving myself.
-- 🌱 I’m currently learning .. Web Development.
-- 👯 I’m looking to collaborate on .. some python based projects.
-- 💬 Ask me about .. anything and I hope I can be of any help.
-- 😉 Pronouns : He/His
-- 😜 Fun fact: ...
+I like working through the complete problem-solving journey — understanding
+requirements, designing solutions, building and integrating systems, testing
+edge cases, and improving reliability.
 
-## Sometimes I feel to work day long
+---
 
-  ![Alt Text](https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif)
+## 👨‍💻 About Me
 
-## Sometimes I feel lazy
+- 🔹 Building and working with **REST APIs, integrations, and backend systems**
+- 🔹 Exploring and developing **GenAI / LLM-powered applications**
+- 🔹 Designing and optimizing **prompts and AI workflows**
+- 🔹 Working with **APIs, tools, structured data, and contextual information**
+- 🔹 Testing AI applications for **hallucinations, edge cases, and unexpected behaviour**
+- 🔹 Designing **fallbacks and validation strategies** for more reliable AI applications
+- 🔹 Translating **business and technical requirements into practical solutions**
+- 🔹 Enjoying the process of learning, experimenting, building, and improving
 
-  ![Alt Text](https://media.giphy.com/media/fdlcvptCs4qsM/giphy.gif)
+---
 
+## 🛠️ Tech Stack & Skills
 
-<!-- **Octocat:**
-<img src="https://octodex.github.com/images/collabocats.jpg" title="I love contributing" width="160">
-=======
-<img src="https://octodex.github.com/images/hula_loop_octodex03.gif" title="I love contributing" width="160"> -->
+### 💻 Programming & Backend
 
-**Github Stats:**
-<!-- <p align="center">
-  
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=deepu14d&show_icons=true&theme=dark&count_private=true" />
-  </p> -->
-  
- <p width="100%" align="center">
-<!--           <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepu14d&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> -->
-          <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepu14d&theme=tokyonight" />
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=deepu14d&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
-  <!-- <p align = "center"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepu14d&theme=dark" />  -->
+### 🔌 APIs & Integrations
 
-<!-- </p> -->
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-<!-- ### Connect With Me
-<a href="https://www.instagram.com/deepu14d/" target="_blank">
-  <img align="left" alt="Ajay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> -->
+- REST API development and consumption
+- API integrations
+- Request / response handling
+- JSON-based data exchange
+- Authentication & authorization concepts
+- Integration testing and troubleshooting
+- Working with third-party APIs and services
 
+### 🤖 GenAI & LLM Applications
+
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Applications-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge" />
+</p>
+
+- Prompt engineering and optimization
+- LLM application workflows
+- Tool / function-based interactions
+- Context and knowledge preparation
+- Structured data sources
+- Hallucination testing
+- Response validation
+- Fallback and error-handling strategies
+- AI application testing and iteration
+
+### ⚙️ Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+## 🧠 How I Approach Problems
+
+I like working across the complete lifecycle of a technical problem:
+
+```text
+Understand the Problem
+        ↓
+Understand Requirements
+        ↓
+Design the Solution
+        ↓
+Build / Integrate
+        ↓
+Test & Debug
+        ↓
+Handle Edge Cases
+        ↓
+Improve Reliability
+```
+
+---
+
+## 📚 Currently Learning
+
+- Advanced backend development
+- API and system design
+- GenAI / LLM application development
+- LLM evaluation and reliability
+- AI agents and tool-based workflows
+- System design and scalable architectures
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=deepu14d&show_icons=true&hide_border=true&count_private=true&theme=transparent" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=deepu14d&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing **software engineering, APIs, integrations,
+GenAI, LLM applications, automation, and interesting technical problems.**
+
+<p align="center">
+  <a href="https://github.com/deepu14d">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/deepanshu2002d/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Build. Learn. Experiment. Improve.</i>
+</p>
